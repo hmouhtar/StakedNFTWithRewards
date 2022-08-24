@@ -8,8 +8,8 @@ This project is composed of 3 contracts:
 
 To execute the sample setup, run:
 
-npx hardhat run scripts/deployAndTest.js
+`npx hardhat run scripts/deployAndTest.js`
 
 To execute the tests, run:
 
-npx hardhat test
+`npx hardhat test`
